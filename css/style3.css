@@ -702,6 +702,10 @@ button {
     padding: 60px 30px;
   }
 }
+@media (max-width: 630pxpx) {
+  .footer__links {
+    margin-top: 400px;
+}
 @media (max-width: 435px) {
   .right {
     padding-right: 35px;
