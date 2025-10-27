@@ -602,7 +602,7 @@ button {
     font-size: 25px;
   }
 }
-@media (max-width: 630pxpx) {
+@media (max-width: 630px) {
   .footer__links {
     margin-top: 400px;
 }
