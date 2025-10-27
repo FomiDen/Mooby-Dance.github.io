@@ -702,7 +702,7 @@ button {
     padding: 60px 30px;
   }
 }
-@media (max-width: 630pxpx) {
+@media (max-width: 630px) {
   .footer__links {
     margin-top: 400px;
 }
